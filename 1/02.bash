@@ -1,4 +1,5 @@
 #!/bin/bash
+# bash and zsh
 s1="パトカー"
 s2="タクシー"
 while (( i < ${#s1} )); do

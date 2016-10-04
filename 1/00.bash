@@ -1,4 +1,5 @@
 #!/bin/bash
+# bash and zsh
 s="stressed"
 i=${#s}
 while (( 0 < i )); do
